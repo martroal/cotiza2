@@ -1,0 +1,5 @@
+{
+  "name": "Currency Exchange Rates",
+  "description": "A simple web application to display currency exchange rates for selected Latin American countries against the USD. It features a minimalistic and detailed design.",
+  "requestFramePermissions": []
+}
